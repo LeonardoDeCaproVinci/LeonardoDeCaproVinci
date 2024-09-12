@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonardoDeCaproVinci
+- 👋 Hi, I’m @LeonardoDeCaproVinci aka Leonard Bauling
 - 👀 I’m interested in cool tech, web development, tennis, being outdoors and how to keep the kids occupied and happy.
 - 🌱 I’m currently learning all things modern web front-end. Having focused on Microsoft stack for the first part of my career, I plan to spend the second part of my career on building software with various building blocks, languages, technologies, platforms, libraries etc.
 - 💞️ I’m looking to collaborate on React, CSS, JavaScript, and design concepts.
